@@ -5,15 +5,15 @@
 ### Projects 
 
 [javarestapimysql](https://github.com/lazarospsa/javarestapimysql/blob/master/README.md)
-[ <img src="images/aboutme.png?raw=true"/> ](/about_me)
+[ <img src="images/javarest.png?raw=true"/> ](/about_me)
 
 ---
 [golangsimpleapi](https://github.com/lazarospsa/golangsimpleapi/blob/master/README.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/go.jpg?raw=true"/>
 
 ---
 [cppmysqllinux](https://github.com/lazarospsa/cppmysqllinux/blob/master/README.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cpp.jpg?raw=true"/>
 
 ---
 
