@@ -3,10 +3,10 @@
   - Golang
   - PHP
   - Python
-  - Java
+  - Swift
   - .NET
   - C++
-  - Swift
+  - Java
   
 **Software Engineer Qualifications / Skills:** 
   - Analyzing information
