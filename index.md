@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[About Me](/about_me)
+[ <img src="images/social.c1bd328b.png?raw=true"/> ](/about_me)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
