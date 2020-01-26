@@ -2,10 +2,10 @@ title: Lazaros Psarokostas (Λάζαρος Ψαροκώστας) # your name (or
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Junior Software Engineer.
-  -Golang
-  -PHP
-  -Python
-  <br>
+  - Golang
+  - PHP
+  - Python
+  <br><br>
   <a href="https://www.linkedin.com/in/lazarospsa/" target="_blank">View My LinkedIn Profile</a>
   <br>
   <a href="https://twitter.com/lazarospsa" target="_blank">View My Twitter Profile</a> 
