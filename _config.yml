@@ -1,4 +1,4 @@
-title: Λάζαρος Ψαροκώστας (Lazaros Psarokostas) # your name (or website title) here
+title: Lazaros Psarokostas (Λάζαρος Ψαροκώστας) # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software Engineer 
@@ -6,16 +6,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/lazarospsa/">View My LinkedIn Profile</a>
-  <br><br>
+  <br>
   <a href="https://twitter.com/lazarospsa">View My Twitter Profile</a> 
-  <br><br>
+  <br>
   <a href="https://www.facebook.com/lazarospsarokostas">View My Facebook Profile</a> 
-  <br><br>
-  <a href="https://www.instagram.com/lazarospsa/">View My Instagram Profile</a> 
-  <br><br>
-  <a href="https://www.youtube.com/user/larroukos94/">View My Youtube Profile</a> 
-  <br><br>
-  <a href="https://soundcloud.com/azermusiclp">View My Soundcloud Profile</a>
+  <br>
+  <a href="https://www.instagram.com/lazarospsa/">View My Instagram Profile</a>
   
   
 theme: jekyll-theme-minimal
