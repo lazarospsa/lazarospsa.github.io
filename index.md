@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [About Me](/about_me)
-[ <img src="images/social.c1bd328b.png?raw=true"/> ](/about_me)
+[ <img src="images/aboutme.png?raw=true"/> ](/about_me)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
