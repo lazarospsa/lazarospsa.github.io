@@ -9,11 +9,11 @@
 
 ---
 [golangsimpleapi](https://github.com/lazarospsa/golangsimpleapi/blob/master/README.md)
-<img src="images/go.jpg?raw=true"/>
+<img src="images/go.png?raw=true"/>
 
 ---
 [cppmysqllinux](https://github.com/lazarospsa/cppmysqllinux/blob/master/README.md)
-<img src="images/cpp.jpg?raw=true"/>
+<img src="images/cpp.png?raw=true"/>
 
 ---
 
