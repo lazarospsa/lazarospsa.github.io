@@ -2,27 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[About Me](/about_me)
+[javarestapimysql](https://github.com/lazarospsa/javarestapimysql/blob/master/README.md)
 [ <img src="images/aboutme.png?raw=true"/> ](/about_me)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[golangsimpleapi](https://github.com/lazarospsa/golangsimpleapi/blob/master/README.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[cppmysqllinux](https://github.com/lazarospsa/cppmysqllinux/blob/master/README.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Infos
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [About Me](/about_me)
+- [Cover Letter](/pdf/sample_presentation.pdf)
+- [Contact](http://example.com/)
 
 ---
